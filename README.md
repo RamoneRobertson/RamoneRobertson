@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Ramone
-#### Crafting Code
 
 Born and raised in Oklahoma but currently based in 📍🗼Tokyo! I enjoy the mix of modern city vibes and tranquil spaces in Tokyo so I like just exploring the city and going to events when I have time.
 
