@@ -2,12 +2,13 @@
 
 Born and raised in Oklahoma but currently based in 📍🗼Tokyo! I enjoy the mix of modern city vibes and tranquil spaces in Tokyo so I like just exploring the city and going to events when I have time.
 
-I've developed an interest in chess after losing a match to a skilled mentor/friend, so Im getting ready for the rematch! Currently (0 - 1)
+Tools & Tech
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg/cc0100'>]
 
 Skills: RUBY / SQL / JS / HTML / CSS
 
-- 🔭 I’m currently working on AnimePanda and Lumi 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on Lumi 
+- 🌱 I’m currently learning DSA review and React
 - 👯 I’m looking to collaborate on B2B SaaS projects 
 - 🤔 I’m looking for help with learning TDD and React 
 - 💬 Ask me about Philosophy 
