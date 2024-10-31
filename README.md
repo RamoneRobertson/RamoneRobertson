@@ -3,7 +3,7 @@
 Born and raised in Oklahoma but currently based in 📍🗼Tokyo! I enjoy the mix of modern city vibes and tranquil spaces in Tokyo so I like just exploring the city and going to events when I have time.
 
 Tools & Tech
-![Ruby on Rails](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg)
+
 
 Skills: RUBY / SQL / JS / HTML / CSS
 
