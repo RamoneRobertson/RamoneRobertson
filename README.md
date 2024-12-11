@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Ramone
-#### I am GitHub Readme Generator's creator
 I am a backend Rails developer currently living in Tokyo. I moved from the US to Japan as a personal challenge of growth and exploration to push myself outside of my comfort zone but also because I find life in Japan interesting and full of new experiences. This is my little corner of the web where I tinker with different projects and explore ideas. Feel free to say hi, and connect!
 
 - 🔭 I’m currently working on REST APIs 
