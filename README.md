@@ -2,7 +2,7 @@
 I am a backend Rails developer currently living in Tokyo. I moved from the US to Japan as a personal challenge of growth and exploration to push myself outside of my comfort zone but also because I find life in Japan interesting and full of new experiences. This is my little corner of the web where I tinker with different projects and explore ideas. Feel free to say hi, and connect!
 
 - 🔭 I’m currently working on REST APIs 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning API design and integration 
 - 👯 I’m looking to collaborate on Hackathons! 
 - 💬 Ask me about Anime! 
 - 📫 How to reach me: LinkedIn! 
