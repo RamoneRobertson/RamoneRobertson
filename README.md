@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramone</h1>
 <h3 align="center">Backend developer based in Tokyo 🗼</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonerobertson&label=Profile%20views&color=0e75b6&style=flat" alt="ramonerobertson" /> </p>
+
 - 🔭 I’m currently working on **Nike Run Club Clone**
 
 - 🌱 I’m currently learning **Java on Exercism**
