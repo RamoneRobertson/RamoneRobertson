@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Nike Run Club Clone<br><br>🌱 I’m currently learning: Java on Exercism<br><br>👯 I’m looking to collaborate on: B2B Saas Projects<br><br>📫 How to reach me: LinkedIn 👍🏾<br><br>⚡ Fun fact: I use to teach myself how to play the piano 🎹</p>
+🔭 I’m currently working on: Nike Run Club Clone
+
+🌱 I’m currently learning: [Java on Exercism](https://exercism.org/)
+
+👯 I’m looking to collaborate on: [B2B Saas Projects](https://sumatosoft.com/blog/35-best-saas-ideas-examples)
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
+
+⚡ Fun fact: I use to teach myself how to play the piano 🎹
 
 ###
 
