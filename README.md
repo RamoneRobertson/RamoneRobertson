@@ -56,9 +56,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5ZDQwYTIzcmpuNnM0bzR5M3c4cmdyOWI5MzQyd3NpNWMzaTFqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lPcX84KOiitiEp12f/giphy.gif"  />
-</div>
-
-###
