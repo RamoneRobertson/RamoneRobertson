@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramone-robertson/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
+
+###
 
 ###
 
