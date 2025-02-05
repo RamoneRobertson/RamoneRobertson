@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on: Nike Run Club Clone
 
-🌱 I’m currently learning: [Java on Exercism](https://exercism.org/tracks/java)
+🌱 I’m currently learning: Java and Spring Boot
 
 👯 I’m looking to collaborate on: [B2B Saas Projects](https://sumatosoft.com/blog/35-best-saas-ideas-examples)
 
