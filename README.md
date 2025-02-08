@@ -10,7 +10,7 @@
 
 ###
 
-🔭 I’m currently working on: Nike Run Club Clone
+🔭 I’m currently working on: Spring Boot CRUD API
 
 🌱 I’m currently learning: Java and Spring Boot
 
