@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning: Java and Spring Boot
 
-👯 I’m looking to collaborate on: [B2B Saas Projects](https://sumatosoft.com/blog/35-best-saas-ideas-examples)
+👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://lu.ma/tokyo)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
 
