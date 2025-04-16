@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning: Java and Spring Boot
 
-👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://lu.ma/tokyo)
+👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://www.meetup.com/find/?location=jp--Tokyo&source=EVENTS&categoryId=546)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
 
