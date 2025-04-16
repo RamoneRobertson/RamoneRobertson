@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Rails Backend Developer based in Tokyo 🗾</h3>
+<h3 align="center">Backend Developer based in Tokyo 🗾</h3>
 
 ###
 
@@ -17,8 +17,6 @@
 👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://lu.ma/tokyo)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
-
-⚡ Fun fact: I use to teach myself how to play the piano 🎹
 
 ###
 
