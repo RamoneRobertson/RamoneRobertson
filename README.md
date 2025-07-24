@@ -10,7 +10,7 @@
 
 ###
 
-🔭 I’m currently working on: Spring Boot CRUD API
+🔭 I’m currently working on: MOFUMO
 
 🌱 I’m currently learning: Java and Spring Boot
 
