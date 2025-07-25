@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on: MOFUMO
 
-🌱 I’m currently learning: Java and Spring Boot
+🌱 I’m currently learning: Spring Security
 
 👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://www.meetup.com/find/?location=jp--Tokyo&source=EVENTS&categoryId=546)
 
