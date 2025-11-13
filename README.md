@@ -16,7 +16,7 @@
 
 👯 I’m looking to collaborate on: Community driven tech events and collaborative coding sessions.
 
-📫 How to reach me: Connect with me on LinkedIn. [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
+📫 How to reach me: Connect with me on LinkedIn. [My Profile](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
 
 ###
 
