@@ -6,17 +6,17 @@
 
 ###
 
-<h3 align="center">Backend Developer based in Tokyo 🗾</h3>
+<h3 align="center">Backend Developer</h3>
 
 ###
 
-🔭 I’m currently working on: MOFUMO
+🔭 I’m currently working on: Building a modern website for a family-owned car detailing business.
 
 🌱 I’m currently learning: Spring Security
 
-👯 I’m looking to collaborate on: [Hackathons and events in Tokyo](https://www.meetup.com/find/?location=jp--Tokyo&source=EVENTS&categoryId=546)
+👯 I’m looking to collaborate on: Community driven tech events and collaborative coding sessions.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
+📫 How to reach me: Connect with me on LinkedIn. [LinkedIn](https://www.linkedin.com/in/ramone-robertson/) 👍🏾
 
 ###
 
