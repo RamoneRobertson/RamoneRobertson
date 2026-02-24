@@ -6,13 +6,13 @@
 
 ###
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 ###
 
-🔭 I’m currently working on: Building a modern website for a family-owned car detailing business.
+🔭 I’m currently working on: Learning Python
 
-🌱 I’m currently learning: Spring Security
+🌱 I’m currently learning: Python
 
 👯 I’m looking to collaborate on: Community driven tech events and collaborative coding sessions.
 
@@ -25,6 +25,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40" alt="rails logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
